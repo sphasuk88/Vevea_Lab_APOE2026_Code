@@ -1,0 +1,6 @@
+[input]
+
+#--- input for Protein Isoform generation --- #########
+
+#full file of id_uni_prot_quan.txt
+batch_quant_path = .\input\id_uni_prot_quan.txt
